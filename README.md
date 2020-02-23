@@ -29,8 +29,6 @@ $ chmod +x maya-desktop-0.1.1-x86_64.AppImage
 $ ./maya-desktop-0.1.1-x86_64.AppImage
 ```
 
-Open the Maya App from your application browser, and you should be able to view are neat UI.
-
 Maya Desktop let's you classify your work in Fleets of Bots. You can make any number of fleet from New Fleet button.
 
 ![](/readme/fleet1.gif)
