@@ -1,4 +1,4 @@
-# Maya v0.10.1 (Beta)
+# Maya v0.13.0 (Beta)
 ---
 ***Run as many as infinite robots*** :robot: ***on your desktop. Powered by Node Red.***
 
